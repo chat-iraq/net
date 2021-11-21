@@ -33,4 +33,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: User-agent: *  Disallow: Sitemap: https://iraqi.chat-iraq.com/sitemap.xml
+Sitemap: User-agent: *  Disallow: Sitemap: https://iraqi.chat-iraq.com/sitemap
